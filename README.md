@@ -13,6 +13,8 @@ This is a marketplace catalog repo. The actual plugins live in their own repos a
 | [creators-studio](https://github.com/juliandickie/creators-studio) | AI image and video Creative Director powered by Gemini Nano Banana, Kling v3, VEO 3.1, ElevenLabs, and Lyria. |
 | [scribe](https://github.com/juliandickie/scribe-plugin) | Google Workspace orchestration - Gmail, Calendar, Drive, Docs, Sheets, Slides, Contacts, Tasks, Forms, Chat. 14 cross-service workflow commands plus 10 service skills. |
 | [spiffy](https://github.com/juliandickie/spiffy-plugin) | Talk to the Spiffy checkout platform - customer lookup, MRR, affiliate, and churn reports, customer notes, one-off promo codes. Works with any Spiffy account. |
+| [clickup](https://github.com/juliandickie/clickup-plugin) | Talk to ClickUp - token-disciplined task access, gated single and bulk writes, and a large-job batch runner with deeper API coverage than the stock connector. Works with any ClickUp workspace. |
+| [vimeo](https://github.com/juliandickie/vimeo-plugin) | Push Descript exports from Google Drive into your Vimeo library - multi-language captions and subtitles, title and description sync, and a gated source-file replace. Driven by a Google Sheet manifest read through the Scribe plugin. |
 
 ## Install
 
