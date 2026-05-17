@@ -136,6 +136,29 @@
         "promo-codes",
         "mcp"
       ]
+    },
+    {
+      "name": "clickup",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/juliandickie/clickup-plugin.git"
+      },
+      "description": "Talk to ClickUp from Claude Code. Token-disciplined task access and first-class bulk operations - deeper API coverage than the stock connector, gated single and bulk writes, and a large-job batch runner. Works with any ClickUp workspace, supply your own pk_ token.",
+      "author": {
+        "name": "Julian Dickie",
+        "url": "https://github.com/juliandickie"
+      },
+      "homepage": "https://github.com/juliandickie/clickup-plugin",
+      "repository": "https://github.com/juliandickie/clickup-plugin",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "clickup",
+        "tasks",
+        "project-management",
+        "bulk",
+        "mcp"
+      ]
     }
   ]
 }
