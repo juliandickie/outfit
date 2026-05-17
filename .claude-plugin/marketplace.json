@@ -12,8 +12,8 @@
     {
       "name": "ac-builder",
       "source": {
-        "source": "github",
-        "repo": "juliandickie/ac-builder"
+        "source": "url",
+        "url": "https://github.com/juliandickie/ac-builder.git"
       },
       "description": "Build ActiveCampaign email sequences from markdown via MJML. Skills wrap the bundled ac-builder Python CLI for rendering, validation, V1 campaign creation, V3 click-action wiring, and theme-driven multi-brand workflows.",
       "author": {
@@ -36,8 +36,8 @@
     {
       "name": "linkedin-post-studio",
       "source": {
-        "source": "github",
-        "repo": "juliandickie/linkedin-post-studio"
+        "source": "url",
+        "url": "https://github.com/juliandickie/linkedin-post-studio.git"
       },
       "description": "Profile-driven LinkedIn content generation: text posts, carousels, hooks, polls, video scripts, newsletters, calendars, companion comments, QA review, idea mining, and content repurposing.",
       "author": {
@@ -60,8 +60,8 @@
     {
       "name": "creators-studio",
       "source": {
-        "source": "github",
-        "repo": "juliandickie/creators-studio"
+        "source": "url",
+        "url": "https://github.com/juliandickie/creators-studio.git"
       },
       "description": "AI image and video Creative Director powered by best-in-class models: Gemini Nano Banana, Kling v3, VEO 3.1, ElevenLabs, Lyria.",
       "author": {
@@ -83,8 +83,8 @@
     {
       "name": "scribe",
       "source": {
-        "source": "github",
-        "repo": "juliandickie/scribe-plugin"
+        "source": "url",
+        "url": "https://github.com/juliandickie/scribe-plugin.git"
       },
       "description": "Google Workspace orchestration for Claude Code. Multi-account access to Gmail, Calendar, Drive, Docs, Sheets, Slides, Contacts, Tasks, Forms, and Chat. Ships 14 cross-service workflow commands plus 10 service skills. Wraps taylorwilsdon/google_workspace_mcp.",
       "author": {
@@ -112,8 +112,8 @@
     {
       "name": "spiffy",
       "source": {
-        "source": "github",
-        "repo": "juliandickie/spiffy-plugin"
+        "source": "url",
+        "url": "https://github.com/juliandickie/spiffy-plugin.git"
       },
       "description": "Talk to the Spiffy checkout platform from Claude Code. Customer lookup, MRR and affiliate and churn reports, customer notes, and one-off promo code generation. Works with any Spiffy account, just supply your own API key.",
       "author": {
