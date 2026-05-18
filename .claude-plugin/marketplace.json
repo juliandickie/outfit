@@ -202,6 +202,24 @@
       "license": "MIT",
       "category": "creative-tools",
       "keywords": ["descript", "video", "audio", "transcription", "underlord", "publishing", "automation", "mcp"]
+    },
+    {
+      "name": "stripe",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/juliandickie/stripe-plugin.git"
+      },
+      "description": "Full programmatic access to every Stripe API endpoint the pinned stripe-node SDK exposes, across many accounts (standalone keys and Stripe Connect). Binary-enforced read, mutating, and destructive safety tier with live-mode arming, read-only multi-account fan-out, and the bundled official Stripe CLI for webhooks. Node CLI wrapped by skills with an optional MCP shim. Replaces the single-account Stripe MCP connector. Supply your own Stripe keys.",
+      "author": {
+        "name": "Julian Dickie",
+        "email": "julian@instituteofdigitaldentistry.com",
+        "url": "https://github.com/juliandickie"
+      },
+      "homepage": "https://github.com/juliandickie/stripe-plugin",
+      "repository": "https://github.com/juliandickie/stripe-plugin",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": ["stripe", "payments", "multi-account", "connect", "webhooks", "billing", "mcp"]
     }
   ]
 }
