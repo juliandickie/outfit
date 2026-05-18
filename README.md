@@ -15,6 +15,8 @@ This is a marketplace catalog repo. The actual plugins live in their own repos a
 | [spiffy](https://github.com/juliandickie/spiffy-plugin) | Talk to the Spiffy checkout platform - customer lookup, MRR, affiliate, and churn reports, customer notes, one-off promo codes. Works with any Spiffy account. |
 | [clickup](https://github.com/juliandickie/clickup-plugin) | Talk to ClickUp - token-disciplined task access, gated single and bulk writes, and a large-job batch runner with deeper API coverage than the stock connector. Works with any ClickUp workspace. |
 | [vimeo](https://github.com/juliandickie/vimeo-plugin) | Push Descript exports from Google Drive into your Vimeo library - multi-language captions and subtitles, title and description sync, and a gated source-file replace. Driven by a Google Sheet manifest read through the Scribe plugin. |
+| [descript](https://github.com/juliandickie/descript-plugin) | Full programmatic access to the Descript API - import media, Underlord AI agent edits, publish compositions, inspect jobs, and run bulk video pipelines. Node CLI wrapped by skills with an optional MCP shim. Supply your own Descript API token. |
+| [stripe](https://github.com/juliandickie/stripe-plugin) | Full multi-account Stripe API access - every endpoint the pinned stripe-node SDK exposes, standalone keys and Stripe Connect. Binary-enforced read, mutating, and destructive safety tier with live-mode arming, read-only multi-account fan-out, and the bundled Stripe CLI for webhooks. Replaces the single-account MCP connector. Supply your own Stripe keys. |
 
 ## Install
 
