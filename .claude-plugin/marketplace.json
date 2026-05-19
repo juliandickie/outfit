@@ -220,6 +220,30 @@
       "license": "MIT",
       "category": "productivity",
       "keywords": ["stripe", "payments", "multi-account", "connect", "webhooks", "billing", "mcp"]
+    },
+    {
+      "name": "epub-for-agents",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/juliandickie/epub-for-agents.git"
+      },
+      "description": "Convert EPUBs to YAML-headed Markdown with per-chapter byte and line offsets so agents read books token-efficiently. Independent wrapper around prime-radiant-inc/books-for-bots. Requires the Rust toolchain (cargo).",
+      "author": {
+        "name": "Julian Dickie",
+        "url": "https://github.com/juliandickie"
+      },
+      "homepage": "https://github.com/juliandickie/epub-for-agents",
+      "repository": "https://github.com/juliandickie/epub-for-agents",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "epub",
+        "ebook",
+        "books",
+        "markdown",
+        "token-efficiency",
+        "reading"
+      ]
     }
   ]
 }
