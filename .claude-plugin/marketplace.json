@@ -244,6 +244,23 @@
         "token-efficiency",
         "reading"
       ]
+    },
+    {
+      "name": "wp-index",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/juliandickie/wp-index.git"
+      },
+      "description": "Extract and index any WordPress site through its REST API. Per-item Markdown, CSV, a JSON archive, and a Claude knowledge-base file. Standard-library Python, zero install. Any post type via a flag. Supply your own site URL and optional Application Password.",
+      "author": {
+        "name": "Julian Dickie",
+        "url": "https://github.com/juliandickie"
+      },
+      "homepage": "https://github.com/juliandickie/wp-index",
+      "repository": "https://github.com/juliandickie/wp-index",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": ["wordpress", "wp-json", "rest-api", "extract", "index", "archive", "seo", "content-audit"]
     }
   ]
 }
