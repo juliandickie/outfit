@@ -1,6 +1,6 @@
 # Outfit
 
-A complete set of AI marketing, sales, and automation tools for [Claude Code](https://www.anthropic.com/claude-code), by Julian Dickie. Copywriting, email sequences, social content, AI creative, Google Workspace, and commerce, all driven by natural-language conversation.
+A growing set of advanced AI marketing, sales, and automation skills and plug-ins for [Claude Code](https://www.anthropic.com/claude-code), by Julian Dickie. Copywriting, email sequences, social content, AI creative, Google Workspace, and commerce, all driven by natural-language conversation.
 
 ## What's here
 
