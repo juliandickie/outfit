@@ -10,7 +10,7 @@ This is a marketplace catalog repo. The actual plugins live in their own repos a
 |---|---|
 | [ac-builder](https://github.com/juliandickie/ac-builder) | Build ActiveCampaign email sequences from markdown via MJML. Rendering, validation, V1 campaign creation, V3 click-action wiring, theme-driven multi-brand workflows. |
 | [linkedin-post-studio](https://github.com/juliandickie/linkedin-post-studio) | Profile-driven LinkedIn content - posts, carousels, hooks, polls, video scripts, newsletters, calendars, repurposing. |
-| [creators-studio](https://github.com/juliandickie/creators-studio) | AI image and video Creative Director powered by Gemini Nano Banana, Kling v3, VEO 3.1, ElevenLabs, and Lyria. |
+| [creators-studio](https://github.com/juliandickie/creators-studio) | AI image, video, audio and transcript Creative Director powered by Gemini Nano Banana, Kling v3, VEO 3.1, ElevenLabs and Lyria. Also makes music and sound effects, transcribes, and watches any video file or link. |
 | [scribe](https://github.com/juliandickie/scribe-plugin) | Google Workspace orchestration - Gmail, Calendar, Drive, Docs, Sheets, Slides, Contacts, Tasks, Forms, Chat. 14 cross-service workflow commands plus 10 service skills. |
 | [spiffy](https://github.com/juliandickie/spiffy-plugin) | Talk to the Spiffy checkout platform - customer lookup, MRR, affiliate, and churn reports, customer notes, one-off promo codes. Works with any Spiffy account. |
 | [clickup](https://github.com/juliandickie/clickup-plugin) | Talk to ClickUp - token-disciplined task access, gated single and bulk writes, and a large-job batch runner with deeper API coverage than the stock connector. Works with any ClickUp workspace. |
@@ -39,7 +39,6 @@ This is a marketplace catalog repo. The actual plugins live in their own repos a
 | [icons](https://github.com/FortAwesome/fontawesome-agent-tools) | Integrate Font Awesome's icons into your project. Third-party plugin by The Font Awesome Team. |
 | [obsidian](https://github.com/kepano/obsidian-skills) | Create and edit Obsidian vault files including Markdown, Bases, and Canvas. Use when working with .md, .base, or .canvas files in an Obsidian vault. |
 | [anti-slop](https://github.com/AgriciDaniel/anti-slop) | Detect and repair AI slop in prose, code, documentation, commits and agent output. Reports defects, never authorship. Runs deterministic scanners for vendor residue... |
-| [watch](https://github.com/bradautomates/claude-video) | Let Claude watch a video. Downloads with yt-dlp, extracts auto-scaled frames with ffmpeg, pulls captions or falls back to Whisper, and hands frames + transcript to... |
 | [typesafe](https://github.com/typesafe-ai/skills) | Agent skills for building with the TypeSafe System One API. Third-party plugin by TypeSafe AI. |
 | [brag](https://github.com/latent-spaces/brag) | Turn the current project into a short, polished, shareable launch video using HyperFrames. Third-party plugin by Shunit Haviv Hakimi. |
 | [cloudflare](https://github.com/cloudflare/skills) | Build, test, and deploy applications on Cloudflare with platform guidance Skills and the Cloudflare MCP server. Third-party plugin by Cloudflare. |

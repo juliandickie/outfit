@@ -63,7 +63,7 @@
         "source": "url",
         "url": "https://github.com/juliandickie/creators-studio.git"
       },
-      "description": "AI image and video Creative Director powered by best-in-class models: Gemini Nano Banana, Kling v3, VEO 3.1, ElevenLabs, Lyria.",
+      "description": "AI image, video, audio and transcript Creative Director powered by Gemini Nano Banana, Kling v3, VEO 3.1, ElevenLabs and Lyria. Also makes music and sound effects, transcribes, and watches any video file or link.",
       "author": {
         "name": "Julian Dickie",
         "url": "https://github.com/juliandickie"
@@ -737,19 +737,6 @@
         "url": "https://github.com/AgriciDaniel"
       },
       "homepage": "https://github.com/AgriciDaniel/anti-slop"
-    },
-    {
-      "name": "watch",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/bradautomates/claude-video.git"
-      },
-      "description": "Let Claude watch a video. Downloads with yt-dlp, extracts auto-scaled frames with ffmpeg, pulls captions or falls back to Whisper, and hands frames + transcript to Claude so it can answer questions about the video. Third-party plugin by Bradley Bonanno.",
-      "author": {
-        "name": "Bradley Bonanno"
-      },
-      "homepage": "https://github.com/bradautomates/claude-video",
-      "license": "MIT"
     },
     {
       "name": "typesafe",
