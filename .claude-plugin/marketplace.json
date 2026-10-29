@@ -289,31 +289,6 @@
       ]
     },
     {
-      "name": "humanise-copy",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/juliandickie/humanise-copy.git"
-      },
-      "description": "Voice-preserving removal of the tell-tale signs of AI generation in written content. Two-tier detection (trigger phrases plus structural and rhythmic patterns), a zero-dependency Python detector with borderline warnings, a whitelist for brand signature phrases and deliberate technique, checks for the damage a repair pass itself introduces (telegraphese, converged tics, chop, orphaned pronouns), a read-aloud naturalness pass, and a ship or do-not-ship verdict gate. Structure that is search and answer-engine optimisation is routed to claude-seo rather than repaired.",
-      "author": {
-        "name": "Julian Dickie",
-        "url": "https://github.com/juliandickie"
-      },
-      "homepage": "https://github.com/juliandickie/humanise-copy",
-      "repository": "https://github.com/juliandickie/humanise-copy",
-      "license": "MIT",
-      "category": "content-creation",
-      "keywords": [
-        "humanise",
-        "humanize",
-        "ai-detection",
-        "ai-slop",
-        "copy-editing",
-        "naturalness",
-        "brand-voice"
-      ]
-    },
-    {
       "name": "impeccable",
       "source": {
         "source": "url",
@@ -344,7 +319,7 @@
         "source": "url",
         "url": "https://github.com/juliandickie/no-ai-slop.git"
       },
-      "description": "Remove 20+ patterns of AI slop from any piece of writing without flattening the writer's voice - binary contrasts, throat-clearing openers, colon reveals, importance puffery, weasel attribution, synonym cycling, and more - or detect slop patterns without rewriting. Fork of petergyang/no-ai-slop packaged as a Claude Code plugin, tracking upstream. Complements humanise-copy, which adds structural and rhythmic detection, repair-damage checks, and a ship or do-not-ship gate.",
+      "description": "Remove 20+ patterns of AI slop from any piece of writing without flattening the writer's voice - binary contrasts, throat-clearing openers, colon reveals, importance puffery, weasel attribution, synonym cycling, and more - or detect slop patterns without rewriting. Fork of petergyang/no-ai-slop packaged as a Claude Code plugin, tracking upstream.",
       "author": {
         "name": "Julian Dickie",
         "url": "https://github.com/juliandickie"
